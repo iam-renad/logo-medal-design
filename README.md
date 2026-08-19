@@ -11,7 +11,7 @@ This repository contains the 3D model and STL export for a custom logo medal des
 * logo.stl - The finalized 3D printable medal model.
 
 ## Project Preview
-![Robotic Dog Design](image (2).png)
+![logo-model-design](image (2).png)
 
 ---
 *Developed by Renad Hassan - 2026*
